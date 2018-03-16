@@ -5,6 +5,14 @@
 	"keywords": ["authentication","class","secure","academic","writing"],
 	"homepage": "https://www.writerzbay.com",
 	"license": "MIT",
+	"authors": [
+        {
+            "name": "Edward Muya Mwangi",
+            "email": "muyaedward@gmail.com",
+            "homepage": "https://www.questdesigners.com",
+            "role": "Software Developer"
+        }
+    ],
 	"require": {
 		"php": ">=5.4.0",
 		"phpmailer/phpmailer": "^5.2"
