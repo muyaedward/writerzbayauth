@@ -1,0 +1,17 @@
+{
+	"name": "muyaedward/writerzbayauth",
+	"description": "A secure user authentication class for Writerzbay academic writing software.",
+	"type": "library",
+	"keywords": ["authentication","class","secure","academic","writing"],
+	"homepage": "https://www.writerzbay.com",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.4.0",
+		"phpmailer/phpmailer": "^5.2"
+	},
+	"autoload": {
+		"psr-4": {
+			"WriterzbayAuth\\": "/"
+		}
+	}
+}
